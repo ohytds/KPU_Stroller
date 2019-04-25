@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    
+    <item
+            android:id="@+id/menu_device_connect"
+            android:orderInCategory="100"
+            android:title="블루투스 연결하기"
+            android:icon="@drawable/ic_bluetooth_disabled_black_24dp"
+            app:showAsAction="always"
+            tools:ignore="HardcodedText"/>
+</menu>

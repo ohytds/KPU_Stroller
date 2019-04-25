@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sun Mar 24 02:32:14 KST 2019
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\test\\Desktop\\bluetooth\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+0.path=classes.dex
+0.set=DEX
+count=1
