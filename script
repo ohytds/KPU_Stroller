@@ -1,0 +1,4 @@
+#!/bin/bash
+
+source/home/pi/hs_venv/bin/activate
+python3/home/pi/main.py
